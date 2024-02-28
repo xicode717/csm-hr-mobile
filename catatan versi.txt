@@ -1,0 +1,6 @@
+# 0.0.0
+
+versi terdiri dari 3 digit
+- digit pertama di gunakan untuk status release aplikasi
+- digit kedua diguanakn untuk status backend
+- digit ketiga digunakan untuk status frontend
